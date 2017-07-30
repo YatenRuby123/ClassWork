@@ -1,0 +1,10 @@
+Class 2
+Home Work Assignment on every saturday
+Version control for Collaborative Coding.
+Get out of VI editor - :wq
+
+Divs wraps everything
+Margin
+Border
+Padding
+

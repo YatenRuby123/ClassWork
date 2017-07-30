@@ -1,0 +1,26 @@
+Class 1
+
+myetension.ucsd.ed
+cd = change directory
+cd .. up one directory
+cd . home
+cd ~ home directory
+cd double tab - gives me options
+touch foo - make an empty file
+rm - remove
+cp - copy
+cls - clear the screen
+mv - move the file or change name 
+cmd k - clear the screen on mac
+ping - 
+top command
+ipconfig
+explorer and file name
+explorer. for the current directory
+
+
+if it is in the <> , its for defining element
+break, horizontal row do not require child.so <br> or <hr> or <br/> or <hr/>
+
+HW - 
+Positioning

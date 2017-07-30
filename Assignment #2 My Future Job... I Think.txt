@@ -1,0 +1,34 @@
+ Angular JS
+ its a javascript based front end web application framework, it helps in developing and testing the application  by providing a 
+ framework for client side model-view-viewmode architectures.
+
+ AWS platform
+ Amazon web services, is a on demand cloud computing platform to everyone, who can get access to virtual computers on amazon using paid subscription.
+
+ Sitecore CMS
+ its a automation software which is used by customer experience management company.
+ 
+ React
+ its a javascript based javascript library for building user interfaces. Its used by developers to create large web-applications that use
+ data that can change over time without reloading the page.
+
+ Grunt
+ its a javascript task runner, a tool that is used to automatically perform tasks suck as unit testing.
+
+ Less
+ it is style sheet language which is dynamic and can be compiled into cascading style sheets and can be run on client side and or server side.
+
+ MEAN stack
+ its a open source javascript software stack to build dynamic website and web applications, it contains mongo db, express js, angular js and node js.
+ 
+ LAMP stack
+ is a archetypal model of web services stacks, and its open source which contains linux os, apache serve, mysql db and php programming and it is used for
+ building dynamic web sites and web applications.
+
+ IIS
+ Internet Information Services, is a extensible windows server 
+ 
+ Single-Page-Application (SPA)
+ is a web applications or web site that fits on a single web page with the goal of providing a user experience similar to that of a desktop application.
+ here all the necessary code like html, css , js are retrieved in single page load or are dynamically loaded and added to the page, depending the response
+ from the user.
